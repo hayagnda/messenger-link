@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Messenger</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        a {
+            text-decoration: none;
+            color: white;
+            background-color: #0078FF;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #005bb5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Open Messenger</h1>
+    <p>Click the button below to open Messenger:</p>
+    <a href="https://www.facebook.com/share/1GvxGaZNYf/?mibextid=wwXIfr" target="_blank">Open Messenger</a>
+</body>
+</html>
